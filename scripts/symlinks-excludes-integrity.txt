@@ -1,0 +1,10 @@
+DeliSpaceIntegrity/DeliSpace
+DeliSpace/DeliSpace
+ProductSpaceIntegrity/ProductSpace
+ProductSpace/ProductSpace
+SourceSpaceIntegrity/SourceSpace
+SourceSpace/SourceSpace
+InterSpaceIntegrity/InterSpace
+InterSpace/InterSpace
+resourcesIntegrity/resources
+resources/resources

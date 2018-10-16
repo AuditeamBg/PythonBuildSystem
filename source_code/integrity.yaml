@@ -1,0 +1,30 @@
+SrcStream:
+        2.MRA2.CPP.CI.BuildSystem.DevEng
+Components:
+        Bun.MFA2.CPP.ProjectOnOff.ProjectOnOffAPI
+        Bun.MFA2.DI.DI.DI_NodeStateConfig
+        Bun.MFA2.DI.DI.DI_NPSM
+        Bun.MRA2.DI.DI.DiOnOffProcess
+        Bun.MFA2.CPP.InternalIF.DiagAPI
+        Bun.MFA2.DI.SharedLIBs.IPMessage
+        Bun.MRA2.DI.VP.StBMLib
+        Bun.MRA2.DI.VP.StBMService
+        fpf.bin.Infrastructure.ComaGen
+        fpf.bin.Tools.Bunny.MRA2
+        fpf.src.Infrastructure.Infrastructure
+        fpf.src.Persistency.Core
+        fpf.src.PlatformOnOff.ClientControl
+        fpf.src.PlatformOnOff.NodeStateController
+        fpf.src.PlatformOnOff.Starter
+        fpf.src.PlatformOnOff.WatchdogProtocol
+        MRA2.BunnyBuildingWorkspace
+        MRA2.CI.BuildSystem
+        MRA2.FusionSystem.C5
+        MRA2.Integration.IC-E
+        MRA2.Integration.IC-H
+        MRA2.Integration.C5
+        MRA2.FusionSystem.IC-H
+        MRA2.FusionSystem.IC-E
+        fpf.bin.Tools.Really.MRA2
+DstStreams:
+        1C.MRA2.C5.Integrity.Daily

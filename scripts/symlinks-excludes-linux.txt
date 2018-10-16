@@ -1,0 +1,10 @@
+DeliSpaceLinux/DeliSpace
+DeliSpace/DeliSpace
+ProductSpaceLinux/ProductSpace
+ProductSpace/ProductSpace
+SourceSpaceLinux/SourceSpace
+SourceSpace/SourceSpace
+InterSpaceLinux/InterSpace
+InterSpace/InterSpace
+resourcesLinux/resources
+resources/resources
